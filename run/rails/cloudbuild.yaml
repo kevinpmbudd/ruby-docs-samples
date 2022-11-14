@@ -22,9 +22,9 @@ steps:
 
 substitutions:
   _REGION: us-central1
-  _SERVICE_NAME: rails-cat-album
-  _INSTANCE_NAME: cat-album
-  _SECRET_NAME: rails-master-key
+  _SERVICE_NAME: rta1983-service
+  _INSTANCE_NAME: rails-test-app-1983-psql
+  _SECRET_NAME: rta1983-secret
 
 availableSecrets:
   secretManager:
